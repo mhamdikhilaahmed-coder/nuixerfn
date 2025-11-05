@@ -1,0 +1,1 @@
+# utils.py - código completo en la respuesta anterior
